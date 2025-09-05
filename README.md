@@ -21,5 +21,5 @@ ResNet50	74.54%	0.7209
 Conclusion: Sequential CNN outperforms ResNet50 in test accuracy, making it the preferred choice for MRI tumor detection.
 ________________________________________
 Usage
-1.	Clone the repo: git clone https://github.com/yourusername/brain-tumor-detection.git
+1.	Clone the repo: git clone https://github.com/JanhaviPawar1810/Brain-Tumor-Detection-using-Deep-Learning-CNN-ResNet50-.git
 2.	Run the notebook: jupyter notebook Brain_Tumor_Detection.ipynb
